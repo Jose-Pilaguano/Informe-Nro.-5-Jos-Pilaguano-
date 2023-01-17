@@ -1,4 +1,4 @@
-# Informe-Nro.-5-Jose-Pilaguano-
+# Informe-Nro.-6-Jose-Pilaguano-
 
 UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
 
@@ -99,6 +99,8 @@ _Realizar ejercicios y análisis de frecuencias y periodos
 ![image](https://user-images.githubusercontent.com/116677175/212954690-f25f219e-535f-474b-a9d7-82ab02778905.png)
 
 4)Video
+
+https://youtu.be/Wk-7pvXfRkI 
 
 5.Conclusiones
 
